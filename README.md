@@ -1,6 +1,6 @@
 # learn
 
-A new Flutter application.
+A Flutter application for children for learning number name, color name, animal name etc.
 
 ## Getting Started
 
