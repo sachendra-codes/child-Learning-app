@@ -1,13 +1,15 @@
 # FirstLearn
 
 An incredible cross platform application for children, helping them to learn numbers, colors name, animals name and many more wonderful features.
-Plesae stay tuned for the future updates.
+Please stay tuned for the future updates.
 
 ## Installation :arrow_down:
 You can install it in your **Device**  by the link given below: 
 
-GIVE YOUR DOWNLOAD LINK HERE for android as well as iOS
+GIVE YOUR DOWNLOAD LINK HERE for android as well as iOS  
+
 .
+
 .
 
 
