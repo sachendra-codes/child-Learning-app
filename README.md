@@ -6,7 +6,9 @@ Plesae stay tuned for the future updates.
 ## Installation :arrow_down:
 You can install it in your **Device**  by the link given below: 
 
-<!--GIVE YOUR DOWNLOAD LINK HERE-->
+GIVE YOUR DOWNLOAD LINK HERE for android as well as iOS
+.
+.
 
 
 ## Built With
